@@ -27,7 +27,9 @@ v20.6.1
 
 #### 2、打开面板，进入镜像菜单里，点击导入，然后选择刚刚下载的镜像文件提交，即可获得最新的fast os docker 镜像。
 
-![1591690543663](C:\Users\24898\AppData\Local\Temp\1591690543663.png)
+![image](https://gitee.com/xinghuankj/FASTOSDOCKER-UPDATA/blob/master/3.png)
+
+
 
 
 
